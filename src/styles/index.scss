@@ -4,3 +4,12 @@ body {
   color: $body-color;
   font-family: sans-serif;
 }
+p {
+  font-size: 19px;
+}
+.wrong {
+  color: red;
+}
+.success {
+  color: green;
+}
