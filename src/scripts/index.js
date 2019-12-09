@@ -37,7 +37,7 @@ function checkValues(input, number) {
     p.className = "success";
     input.value = "";
     randomNumber = getRandomNumber(10);
-    console.log(`New random number${randomNumber}`);
+    console.log(`New random number ${randomNumber}`);
   }
 }
 function getRandomNumber(n) {
